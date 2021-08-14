@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodyProductions
 - 👀 I’m interested in Programming and much more!
-- 🌱 I’m currently learning C# and C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m not looking to collaborate as of now.
 - 📫 How to reach me, don't lol. (im sorry)
 
